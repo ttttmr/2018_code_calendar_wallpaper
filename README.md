@@ -7,7 +7,9 @@ Windows编程日历，效果如图
 ## 依赖程序
 
 Python3 https://www.python.org
+
 ImageMagick http://www.imagemagick.org/download/binaries/ImageMagick-6.9.9-34-Q8-x64-dll.exe
+
 Ghostscript https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs922/gs922w64.exe
 
 ## 使用
