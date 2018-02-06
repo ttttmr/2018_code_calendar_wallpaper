@@ -18,7 +18,7 @@ Ghostscript https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/downl
 
 可更换背景壁纸，替换`wallpaper.jpg`文件即可
 
-将`wallpaper.bat`添加启动项或者增加定时任务可实现自动更换
+将`wallpaper.bat`添加快捷方式到启动项即可实现自动更换
 
 ## 相关资源
 
