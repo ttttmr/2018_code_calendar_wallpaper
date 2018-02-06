@@ -32,7 +32,9 @@ Ghostscript 9.22下载 https://github.com/ArtifexSoftware/ghostpdl-downloads/rel
 
 若要更换背景壁纸，替换`wallpaper.jpg`文件即可
 
-将`wallpaper.bat`添加快捷方式到启动项即可实现自动更换
+若要实现自动更换，可将`wallpaper_startup.vbs`添加快捷方式到启动项即可
+
+> 使用vbs主要是为了隐藏启动时的小黑窗...
 
 ## 相关资源
 

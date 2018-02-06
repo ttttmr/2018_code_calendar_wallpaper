@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "cmd /c wallpaper.bat",0
