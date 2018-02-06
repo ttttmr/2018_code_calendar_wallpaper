@@ -18,15 +18,15 @@ Windows编程日历，效果如图
 
 > 注安装时需勾选`nstall development headers and libraries for C and C++`
 
-安装文档见 http://docs.wand-py.org/en/latest/guide/install.html#install-imagemagick-on-windows
+安装文档可参考 http://docs.wand-py.org/en/latest/guide/install.html#install-imagemagick-on-windows
 
 * [Ghostscript](https://www.ghostscript.com/)
 
 ## 使用
 
-双击`wallpaper.bat`即可
+安装好依赖，双击`wallpaper.bat`即可
 
-可更换背景壁纸，替换`wallpaper.jpg`文件即可
+若要更换背景壁纸，替换`wallpaper.jpg`文件即可
 
 将`wallpaper.bat`添加快捷方式到启动项即可实现自动更换
 
@@ -38,6 +38,6 @@ V2EX：https://www.v2ex.com/t/427092
 
 壁纸灵感及脚本参考：https://www.jianshu.com/p/912ce01d4752
 
-原壁纸来自：Ubuntu 16.10 入选壁纸 Stalking\_Ocelot\_by\_Sayantan\_Chaudhuri
+背景壁纸来自：Ubuntu 16.10 入选壁纸 Stalking\_Ocelot\_by\_Sayantan\_Chaudhuri
 
 下载链接：https://www.iplaysoft.com/ubuntu-1610-wallpapers.html
