@@ -6,11 +6,21 @@ Windows编程日历，效果如图
 
 ## 依赖程序
 
-Python3 https://www.python.org
+* [Python3](https://www.python.org)
 
-ImageMagick http://www.imagemagick.org/download/binaries/ImageMagick-6.9.9-34-Q8-x64-dll.exe
+安装Python并安装Wand库
 
-Ghostscript https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs922/gs922w64.exe
+`pip install wand`
+
+* [ImageMagick](http://www.imagemagick.org)
+
+最新版不支持[ImageMagick-6.9.9-34-Q8-x64-dll.exe](http://www.imagemagick.org/download/binaries/ImageMagick-6.9.9-34-Q8-x64-dll.exe)版本可用
+
+> 注安装时需勾选`nstall development headers and libraries for C and C++`
+
+安装文档见 http://docs.wand-py.org/en/latest/guide/install.html#install-imagemagick-on-windows
+
+* [Ghostscript](https://www.ghostscript.com/)
 
 ## 使用
 
