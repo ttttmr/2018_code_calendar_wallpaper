@@ -1,6 +1,6 @@
 # 2018编程日历壁纸
 
-Windows编程日历壁纸，效果如图
+2018编程日历壁纸，效果如图
 
 ![](./2018_code_calendar_wallpaper.jpg)
 
