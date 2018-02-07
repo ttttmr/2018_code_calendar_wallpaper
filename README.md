@@ -18,7 +18,7 @@ Windows编程日历，效果如图
 
 ImageMagick-6.9.9-34-Q8-x64-dll.exe下载 http://www.imagemagick.org/download/binaries/ImageMagick-6.9.9-34-Q8-x64-dll.exe
 
-> 注安装时需勾选`nstall development headers and libraries for C and C++`
+> 注安装时需勾选`install development headers and libraries for C and C++`
 
 安装文档可参考 http://docs.wand-py.org/en/latest/guide/install.html#install-imagemagick-on-windows
 
